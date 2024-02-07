@@ -1,0 +1,14 @@
+python-telegram-bot==13.7
+requests
+lxml
+pandas
+telethon
+pyautogui
+pytesseract
+Pillow
+google-cloud-vision
+tk
+selenium
+sklearn
+telebot
+matplotlib
